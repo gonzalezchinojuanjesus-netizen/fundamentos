@@ -5,6 +5,7 @@ import java.util.Scanner;
 public class aCT_CLASE {
     public static void main(String[] args)
     {
+        System.out.println("hola git");
         String[] categoriaChida={"hip hop","electronica", "phonk"};
         for(int iterado= 0; iterado<categoriaChida.length; iterado++)
         {
