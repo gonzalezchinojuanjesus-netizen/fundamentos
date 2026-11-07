@@ -1,4 +1,6 @@
 package parcial_2;
 
-public class construir {
+public class construir
+{
+
 }
